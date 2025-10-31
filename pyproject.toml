@@ -1,0 +1,12 @@
+[project]
+name = "automacao-acessorias"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas>=2.3.3",
+    "requests>=2.32.5",
+    "selenium>=4.38.0",
+    "webdriver-manager>=4.0.2",
+]

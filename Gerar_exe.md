@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --add-binary "chromedriver.exe;." --icon="icon.ico" main.py
